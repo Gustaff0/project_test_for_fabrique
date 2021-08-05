@@ -31,7 +31,7 @@
 1. Клонируем репозиторий с гитхаба
 
     ```bash
-    git clone git@github.com/sotirr/project_test_for_fabrique.git
+    https://github.com/Gustaff0/project_test_for_fabrique.git
     ```
 
 2. Выполняем миграцию базы данных
